@@ -1,0 +1,22 @@
+.carousel-wrapper {
+    margin-left: 33%;
+    margin-top: 10px;
+    display: flex;
+    flex: content;
+    height: 100%;
+}
+
+
+/* .carousel {
+    height: 1rem;
+} */
+.image1 {
+    margin-top: 15px;
+    height: 250px;
+}
+
+.carousel .thumb {
+    height: 45px;
+    width: 11%;
+    opacity: 0;
+}

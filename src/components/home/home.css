@@ -1,0 +1,23 @@
+.home-h1 {
+    margin-top: 5%;
+    margin-left: 20px;
+    float: left;
+}
+.home-h2 {
+    margin-top: 5%;
+    margin-left: 23px;
+    float: left;
+}
+
+.what{
+    margin-top: 15%;
+    float: left;
+    
+}
+p{
+        display: block;
+            margin-block-start: 1em;
+            margin-block-end: 1em;
+            margin-inline-start: 0px;
+            margin-inline-end: 0px;
+        }
